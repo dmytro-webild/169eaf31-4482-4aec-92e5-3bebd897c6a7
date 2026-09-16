@@ -10,14 +10,16 @@ export default function Layout() {
     <StyleProvider buttonVariant="default" siteBackground="none" heroBackground="none">
       <SiteBackgroundSlot />
       <NavbarDropdown
-                logo="Webild"
+                logo="Sightworthy Studio"
                 navItems={[
                   { name: "Services", href: "#services" },
-                  { name: "Work", href: "#work" },
-                  { name: "Team", href: "#team" },
-                  { name: "Contact", href: "#contact" },
+                  { name: "Process", href: "#process" },
+                  { name: "About", href: "#about" },
+                  { name: "Why Us", href: "#why-us" },
+                  { name: "Care Plan", href: "#care" },
+                  { name: "Contact", href: "#inquiry" },
                 ]}
-                ctaButton={{ text: "Start Project", href: "#contact" }}
+                ctaButton={{ text: "Start Your Website", href: "#inquiry" }}
               />
       <main className="flex-grow">
         <Outlet />
