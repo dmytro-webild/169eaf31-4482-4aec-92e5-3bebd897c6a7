@@ -15,7 +15,7 @@ export default function FaqSection(): React.JSX.Element {
                 items={[
                   {
                     question: "How long does a typical project take?",
-                    answer: "Most projects are completed within 2-4 weeks depending on scope and complexity. We'll provide a detailed timeline during our initial consultation.",
+                    answer: "Most projects are completed within 1 week depending on scope and complexity. We'll provide a detailed timeline during our initial consultation.",
                   },
                   {
                     question: "What is your pricing structure?",
