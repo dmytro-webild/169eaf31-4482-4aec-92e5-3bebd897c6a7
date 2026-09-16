@@ -11,7 +11,7 @@ export default function MetricsSection(): React.JSX.Element {
                 textAnimation="fade-blur"
                 tag="Results"
                 title="Trusted by Industry Leaders"
-                description="Years of experience building digital products that drive real results."
+                description="Digital products that drive real results."
                 metrics={[
                   {
                     value: "100+",

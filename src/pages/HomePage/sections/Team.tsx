@@ -10,22 +10,22 @@ export default function TeamSection(): React.JSX.Element {
               <TeamStackedCards
                 textAnimation="fade-blur"
                 tag="Team"
-                title="The Team Behind the Work"
-                description="The creative minds behind your next project."
+                title="The CEO"
+                description="The creative mind behind your next project."
                 members={[
                   {
-                    name: "Sarah Miller",
-                    role: "Lead Developer",
-                    imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-1.webp",
+                    name: "Ciara Collins",
+                    role: "CEO",
+                    imageSrc: "https://storage.googleapis.com/webild/users/user_3JNY2WoF3o8mxqLzes9ovx1K1AY/uploaded-1789571828855-djwnjqkg.jpg",
                   },
                   {
-                    name: "Valentina Reyes",
-                    role: "Creative Director",
+                    name: "",
+                    role: "",
                     imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-2.webp",
                   },
                   {
-                    name: "Carlos Mendoza",
-                    role: "UX Designer",
+                    name: "",
+                    role: "",
                     imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-3.webp",
                   },
                 ]}
