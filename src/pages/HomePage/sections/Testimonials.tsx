@@ -9,9 +9,9 @@ export default function TestimonialsSection(): React.JSX.Element {
     <div id="testimonials" data-section="testimonials">
               <TestimonialTrustCard
                 textAnimation="fade-blur"
-                quote="Webild completely transformed our online presence. The team delivered a stunning website that exceeded our expectations and doubled our conversion rate."
+                quote="Sightworthy Studio completely transformed our online presence. The team delivered a stunning website that exceeded our expectations and doubled our conversion rate."
                 rating={5}
-                author="— Maria Santos, CEO at Luxuria Travel"
+                author=""
                 avatars={[
                   { name: "Maria Santos", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-1.webp" },
                   { name: "James Chen", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-2.webp" },
