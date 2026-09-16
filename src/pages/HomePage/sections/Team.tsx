@@ -21,12 +21,12 @@ export default function TeamSection(): React.JSX.Element {
                   {
                     name: "",
                     role: "",
-                    imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-2.webp",
+                    imageSrc: "https://images.pexels.com/photos/34860711/pexels-photo-34860711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=34860711",
                   },
                   {
                     name: "",
                     role: "",
-                    imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-3.webp",
+                    imageSrc: "https://images.pexels.com/photos/4814074/pexels-photo-4814074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=4814074",
                   },
                 ]}
               />
