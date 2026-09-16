@@ -15,7 +15,6 @@ import TestimonialsSection from './HomePage/sections/Testimonials';
 import MetricsSection from './HomePage/sections/Metrics';
 import TeamSection from './HomePage/sections/Team';
 import FaqSection from './HomePage/sections/Faq';
-import ContactSection from './HomePage/sections/Contact';
 
 export default function HomePage(): React.JSX.Element {
   return (
@@ -40,7 +39,6 @@ export default function HomePage(): React.JSX.Element {
 
         <FaqSection />
 
-        <ContactSection />
 
         
       </StyleProvider>
